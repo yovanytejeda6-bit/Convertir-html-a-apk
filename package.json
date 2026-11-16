@@ -1,0 +1,9 @@
+{
+  "name": "html-a-apk",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "sync": "cap sync android",
+    "open": "cap open android"
+  }
+}
